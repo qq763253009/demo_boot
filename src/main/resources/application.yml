@@ -1,0 +1,9 @@
+# properties
+
+server:
+  port: 8089
+name: demo
+age: 18
+student:
+  name: wyq
+  age: = 19
